@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="opengl-alphabet-animation.vcxproj" Id="080268cf-0a69-40fb-a3ee-c66d251fbbe5" />
+</Solution>
